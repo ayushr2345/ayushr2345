@@ -1,7 +1,9 @@
-### Hi there 👋
-I'm a 4th year ECE Student at IIITDM Kancheepuram interested in Software Development. I learnt full stack Web Development (the MERN stack) and have created two projects, one in the process of learning and another completely from scratch
-
+## Hi there 👋
+### I'm a 4th year ECE Student at IIITDM Kancheepuram interested in Software Development. I learnt full stack Web Development (the MERN stack) and have created two projects, one in the process of learning and another completely from scratch
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushr2345&show_icons=true&count_private=true)
+
+## Languages
+### C, C++, Python, Javascript, Typescript, Verilog
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushr2345&layour=compact)
 
 <!--
